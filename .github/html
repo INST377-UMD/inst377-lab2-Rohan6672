@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Page 2 - Thank You</title>
+  <style>
+    /* Different background color for Page 2 */
+    body {
+      background-color: #e6f7ff;
+      text-align: center;
+    }
+    /* Center the image and set its width to 50% */
+    img {
+      width: 50%;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Thank You!</h1>
+  <img src="IMG_0237.jpeg" alt="Placeholder Image">
+</body>
+</html>
